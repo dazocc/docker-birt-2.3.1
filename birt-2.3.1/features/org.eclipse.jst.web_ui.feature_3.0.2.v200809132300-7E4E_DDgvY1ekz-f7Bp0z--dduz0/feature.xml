@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.jst.web_ui.feature"
+      label="%featureName"
+      version="3.0.2.v200809132300-7E4E_DDgvY1ekz-f7Bp0z--dduz0"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://download.eclipse.org/webtools/updates/"/>
+   </url>
+
+   <includes
+         id="org.eclipse.jst.web_userdoc.feature"
+         version="3.0.1.v200808091845-108Y7w31191922"/>
+
+   <includes
+         id="org.eclipse.jst.web_core.feature"
+         version="3.0.2.v200809132300-7M7AEWlEFp_acwcctz0aHtp"/>
+
+   <requires>
+      <import feature="org.eclipse.platform" version="3.4.0"/>
+      <import feature="org.eclipse.jdt" version="3.4.0"/>
+      <import feature="org.eclipse.emf.ecore" version="2.4.0"/>
+      <import feature="org.eclipse.emf.common" version="2.4.0"/>
+      <import feature="org.eclipse.emf.codegen" version="2.4.0"/>
+      <import feature="org.eclipse.emf.edit" version="2.4.0"/>
+      <import feature="org.eclipse.emf.edit.ui" version="2.4.0"/>
+      <import feature="org.eclipse.gef" version="3.4.0"/>
+      <import feature="org.eclipse.wst.web_ui.feature" version="3.0.0"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.wst.jsdt.web.support.jsp"
+         download-size="0"
+         install-size="0"
+         version="1.0.1.v200807241900"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jem.ui"
+         download-size="0"
+         install-size="0"
+         version="2.0.100.v200806051600"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jst.common.annotations.ui"
+         download-size="0"
+         install-size="0"
+         version="1.1.102.v200806010600"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jst.jsp.ui"
+         download-size="0"
+         install-size="0"
+         version="1.1.310.v200809120122"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jst.jsp.ui.infopop"
+         download-size="0"
+         install-size="0"
+         version="1.0.100.v200805301545"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jst.jsf.common.ui"
+         download-size="0"
+         install-size="0"
+         version="1.1.0.v20080605"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jst.jsf.facesconfig.ui"
+         download-size="0"
+         install-size="0"
+         version="1.1.2.v20080909"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jst.jsf.ui"
+         download-size="0"
+         install-size="0"
+         version="1.1.101.v20080909"
+         unpack="false"/>
+
+</feature>

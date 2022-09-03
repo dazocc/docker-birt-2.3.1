@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.wst.server_ui.feature"
+      label="%featureName"
+      version="3.0.2.v20080916-791An9vEJ-Z2ZFYQHVTA69B7"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://download.eclipse.org/webtools/updates/"/>
+   </url>
+
+   <includes
+         id="org.eclipse.wst.server_userdoc.feature"
+         version="3.0.0.v200712031330-10-7w311916261244"/>
+
+   <includes
+         id="org.eclipse.wst.server_core.feature"
+         version="3.0.1.v200807220139-20Ak8s733I3E771256"/>
+
+   <requires>
+      <import feature="org.eclipse.platform" version="3.4.0"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.wst.internet.monitor.ui"
+         download-size="0"
+         install-size="0"
+         version="1.0.304.v200805140145"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.server.ui.infopop"
+         download-size="0"
+         install-size="0"
+         version="1.1.0.v200805140145"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.server.ui"
+         download-size="0"
+         install-size="0"
+         version="1.1.2.v20080916"
+         unpack="false"/>
+
+</feature>

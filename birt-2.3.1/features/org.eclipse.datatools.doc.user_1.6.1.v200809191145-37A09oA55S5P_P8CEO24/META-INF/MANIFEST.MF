@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Created-By: 1.4.2_13-b06 (Sun Microsystems Inc.)
+Ant-Version: Apache Ant 1.7.0
+
+Name: feature.properties
+SHA1-Digest: pdCeWIphC1qQwxUlPpykv1eHWqw=
+
+Name: feature.xml
+SHA1-Digest: 5EE7q7uPMNR/yEZd/hq31jbHflQ=
+
+Name: license.html
+SHA1-Digest: ocjWcLaOQaQ+pQhdFIr2LWEitq8=
+
+Name: eclipse_update_120.jpg
+SHA1-Digest: xstAqMgs/a5AsQXQZSdDQ79veOA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 09gN05tobgS/MdtqyTNQhOhB73M=
+

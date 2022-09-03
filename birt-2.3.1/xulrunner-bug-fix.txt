@@ -1,0 +1,2 @@
+copiar user.js para $HOME/.mozilla/eclipse
+

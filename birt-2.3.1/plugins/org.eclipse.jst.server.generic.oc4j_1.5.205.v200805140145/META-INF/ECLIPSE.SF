@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: G3YmsFMRL4y6MQwACejL/gGzEI4=
+Created-By: 1.5.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 9w+mPrW2SHVUmGOgSvBirBLzmBc=
+
+Name: servers/oracle.10.1.3.1.serverdef
+SHA1-Digest: JKpKAjVL2TyhVTzKKTAkfa0Ksv8=
+
+Name: buildfiles/oracle/ant-oracle.xml
+SHA1-Digest: kDU8a6xj0FeoUFQBYVU58ecbl30=
+
+Name: servers/oracle.10.1.3.serverdef
+SHA1-Digest: kiLYhkHiflsPgxXcDPAGOXdTxKQ=
+
+Name: plugin.properties
+SHA1-Digest: pIStd+qHTyYg8XQ2kpCTCwqWPjM=
+
+Name: about.html
+SHA1-Digest: uiJRfz9x0SZWELI8a5uHYToQRw4=
+
+Name: buildfiles/oracle.10.1.3.xml
+SHA1-Digest: 0JEo5BXUIOsOcVdlKGdNabnDvlw=
+
+Name: plugin.xml
+SHA1-Digest: 4M374sBDrERXsWih8OZZZgMV/t8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: genericoc4j.jar
+SHA1-Digest: +fW19Lzlb1KPwKlJteGv5mCO5DQ=
+
+Name: buildfiles/oracle/ant-oracle.1013dp4.xml
+SHA1-Digest: C0Uh1Eu4aLIhjuN+EyBPsDamIlg=
+
+Name: icons/obj16/oracle.gif
+SHA1-Digest: CiMA+fPjwfK6PBC0V7sSLviiq08=
+

@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.jst.ejb.ui.infopop;singleton:=true
+Bundle-ManifestVersion: 2
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-Version: 1.0.100.v200805222207
+Bundle-Vendor: %pluginProvider
+Eclipse-AutoStart: true
+
+Name: SessionBeanWizContext.xml
+SHA1-Digest: NhbQ3+lB26M1CtgVCBqT7dJSMmw=
+
+Name: MessageDrivenBeanWizContext.xml
+SHA1-Digest: TImhcqVV1fuAhbYxy49vg8SOEf0=
+
+Name: plugin.properties
+SHA1-Digest: NyAGODLrQbNbUByBtc5pqN2BImM=
+
+Name: about.html
+SHA1-Digest: mUOvxSYxCUot6WW9T8TxmOQUrws=
+
+Name: plugin.xml
+SHA1-Digest: yimeorFGME1vRPJ8d8qNaLlW0d8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+

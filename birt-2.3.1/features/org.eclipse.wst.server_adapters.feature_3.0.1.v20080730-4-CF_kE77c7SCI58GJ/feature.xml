@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.wst.server_adapters.feature"
+      label="%featureName"
+      version="3.0.1.v20080730-4-CF_kE77c7SCI58GJ"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://download.eclipse.org/webtools/updates/"/>
+   </url>
+
+   <requires>
+      <import feature="org.eclipse.platform" version="3.4.0"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.wst.server.preview.adapter"
+         download-size="0"
+         install-size="0"
+         version="1.0.101.v20080730"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.server.preview"
+         download-size="0"
+         install-size="0"
+         version="1.0.100.v200805140145"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.server.http.core"
+         download-size="0"
+         install-size="0"
+         version="1.0.100.v200805140145"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.wst.server.http.ui"
+         download-size="0"
+         install-size="0"
+         version="1.0.100.v200805140145"
+         unpack="false"/>
+
+</feature>

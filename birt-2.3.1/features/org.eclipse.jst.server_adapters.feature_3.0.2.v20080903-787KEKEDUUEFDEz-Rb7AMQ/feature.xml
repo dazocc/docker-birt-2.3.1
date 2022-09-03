@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.jst.server_adapters.feature"
+      label="%featureName"
+      version="3.0.2.v20080903-787KEKEDUUEFDEz-Rb7AMQ"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://download.eclipse.org/webtools/updates/"/>
+   </url>
+
+   <plugin
+         id="org.eclipse.jst.server.preview.adapter"
+         download-size="0"
+         install-size="0"
+         version="1.0.101.v20080730"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jst.server.tomcat.core"
+         download-size="0"
+         install-size="0"
+         version="1.1.103.v20080827"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jst.server.tomcat.ui"
+         download-size="0"
+         install-size="0"
+         version="1.1.101.v20080620"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jst.server.websphere.core"
+         download-size="0"
+         install-size="0"
+         version="1.0.302.v20080620"/>
+
+   <plugin
+         id="org.eclipse.jst.server.generic.jboss"
+         download-size="0"
+         install-size="0"
+         version="1.5.205.v200805140145"/>
+
+   <plugin
+         id="org.eclipse.jst.server.generic.jonas"
+         download-size="0"
+         install-size="0"
+         version="1.5.205.v200805140145"/>
+
+   <plugin
+         id="org.eclipse.jst.server.generic.oc4j"
+         download-size="0"
+         install-size="0"
+         version="1.5.205.v200805140145"/>
+
+   <plugin
+         id="org.eclipse.jst.server.installable"
+         download-size="0"
+         install-size="0"
+         version="1.5.202.v200805140145"
+         unpack="false"/>
+
+</feature>
